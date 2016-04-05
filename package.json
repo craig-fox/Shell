@@ -1,0 +1,11 @@
+{
+  "name": "shell",
+  "version": "0.0.1",
+  "main": "dist/modules.js",
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "babelify": "^7.2.0",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
